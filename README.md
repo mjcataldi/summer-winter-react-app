@@ -1,3 +1,7 @@
+Summer-Winter React App
+## Known Issues
+- Loading page not working properly.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
